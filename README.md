@@ -6,7 +6,7 @@ Este guia fornece instruções sobre como contribuir para o projeto. O GitHub ta
 
 Esta organização possui vários repositórios. Cada repositório possui um propósito específico, além de um arquivo `README.md` que explica como executar o projeto.
 
-## Como configurar o ambiente de desenvolvimento
+## Como contribuir
 
 > [!NOTE]
 > O guia abaixo utiliza o Git para clonar o repositório e fazer commits. Se você sentir mais confortável usando uma interface gráfica, sinta-se à vontade para usar ferramentas como [GitHub Desktop](https://desktop.github.com/download/), mas saiba que o guia a seguir é baseado no uso do terminal.
